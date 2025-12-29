@@ -55,3 +55,5 @@ SCREENSHOTS OF DASHBOARD:
 ![Dashboard_Preview](https://github.com/jayeshyadav5202/Norway-Automotive-Sales-Overview/blob/main/Image.png)
 
 3. Image 2:
+
+![Dashboard_Preview](https://github.com/jayeshyadav5202/Norway-Automotive-Sales-Overview/blob/main/Image%202.png)
