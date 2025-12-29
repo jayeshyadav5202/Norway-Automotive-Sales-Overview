@@ -51,4 +51,7 @@ This dashboard helps stakeholders make data-driven decisions related to pricing,
 SCREENSHOTS OF DASHBOARD: 
 
 1. Image 1:
-2. Image 2:
+
+![Dashboard_Preview](https://github.com/jayeshyadav5202/Norway-Automotive-Sales-Overview/blob/main/Image.png)
+
+3. Image 2:
