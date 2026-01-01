@@ -1,9 +1,13 @@
 # Norway-Automotive-Sales-Overview
 Data Analysis Project using Power BI
 
-Built an interactive dashboard analyzing sales trends, revenue performance, and fuel-type demand using Power BI and DAX.
+- Built an interactive dashboard analyzing sales trends, revenue performance, and fuel-type demand using Power BI and DAX.
 
-KEY FEATURES:
+## Data Source
+
+The dataset for EV charging patterns is used for the analysis and is preprocessed for better insights.
+
+## KEY FEATURES:
 
 1. Business Problem:
 The business needed a clear and simple way to understand car sales performance in Norway. The raw data was available, but it was difficult to identify sales trends, top brands, popular models, and customer fuel preferences from tables alone.
@@ -35,12 +39,10 @@ e.  Quantity vs Revenue Behavior
 High sales volume does not always mean high revenue. Some brands or models sell in large quantities at lower prices, while others sell fewer units at higher prices.
 Insight: Both volume and pricing need to be analyzed together to understand true performance.
 
-
-
 6. Business Impact:
 This dashboard helps stakeholders make data-driven decisions related to pricing, inventory planning, product focus, and sales strategy. It saves time, improves visibility into performance, and turns raw data into actionable business insights.
 
--> Future Plan:
+## -> Future Plan:
 1. Using historical year-wise sales trends, the business can predict future demand more accurately. This helps plan production, inventory, and sales targets in advance.
 2. Invest more in popular fuel types
 3. Increase marketing for top models
@@ -48,7 +50,7 @@ This dashboard helps stakeholders make data-driven decisions related to pricing,
 5. Offer discounts for low-performing models
 
 
-SCREENSHOTS OF DASHBOARD: 
+## SCREENSHOTS OF DASHBOARD: 
 
 1. Image 1:
 
