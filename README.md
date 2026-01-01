@@ -1,11 +1,11 @@
 # Norway-Automotive-Sales-Overview
-Data Analysis Project using Power BI
+- Data Analysis Project using Power BI
 
 - Built an interactive dashboard analyzing sales trends, revenue performance, and fuel-type demand using Power BI and DAX.
 
 ## Data Source
 
-The dataset for EV charging patterns is used for the analysis and is preprocessed for better insights.
+- The dataset for EV charging patterns is used for the analysis and is preprocessed for better insights.
 
 ## KEY FEATURES:
 
@@ -23,19 +23,19 @@ a. Sales Trend Over Time:
 Car sales show a clear year-wise trend, helping us understand whether the market is growing, stable, or declining.            Certain years perform better than others, indicating changes in customer demand and market conditions.
 Insight: The market does not grow evenly every year, which highlights the need for timely planning and forecasting.
 
-b. Brand Performance
+- Brand Performance:
 Some brands consistently sell more vehicles and generate higher revenue than others. A small number of brands contribute a large share of total sales, while others have lower demand.
 Insight: Sales are concentrated among top-performing brands, which are key revenue drivers for the business.
 
-c. Model Contribution
+- Model Contribution:
 Only a few models generate maximum revenue, even though many models exist. These top models are strong performers due to high demand, higher pricing, or both.
 Insight: Focusing on high-revenue models can significantly impact overall business performance.
 
-d. ️Fuel Type Preference
+- Fuel Type Preference:
 Customers show a clear preference for certain fuel types. Some fuel categories dominate total sales, while others have relatively lower demand.
 Insight: Fuel preference data helps businesses align inventory with customer demand and sustainability goals.
 
-e.  Quantity vs Revenue Behavior
+- Quantity vs Revenue Behavior:
 High sales volume does not always mean high revenue. Some brands or models sell in large quantities at lower prices, while others sell fewer units at higher prices.
 Insight: Both volume and pricing need to be analyzed together to understand true performance.
 
